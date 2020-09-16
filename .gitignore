@@ -1,0 +1,6 @@
+.idea
+ansible/
+vendor/
+config.php
+app-deploy.yml
+streamaru.lock
